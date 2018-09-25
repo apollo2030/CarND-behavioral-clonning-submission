@@ -1,0 +1,12 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/mycmd.exe.lnk
+/data/*
+/data2/*
+/fine_tuning_data/*
+/.vs/*
+/video/*
+/logs/*
+/*.npy
